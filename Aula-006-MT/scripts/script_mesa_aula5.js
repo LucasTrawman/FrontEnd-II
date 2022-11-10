@@ -4,7 +4,7 @@ let h1 = document.querySelector("h1");
 let itemsList = document.querySelectorAll(".item");
 
 function alteraTema() {
-  querySelectorAll(".item");
+  let itemsList = document.querySelectorAll(".item");
 
   if (toggleswitch.checked) {
 
